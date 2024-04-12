@@ -1,7 +1,7 @@
 # PROBLEM STATEMENT:
 # 1. Read a JSON rtf text file. Convert it using any method.
-# 2. Replace the value of the key in the JSON dict. (It is guranteed to have the key.)
-# 3. Duplicate an array components n number of times where n is a positive integer
+# 2. Replace the value of the key in the JSON dict. (It is guaranteed to have the key.)
+# 3. Duplicate an array components n number of times when n is a positive integer
 # 4. Write the updated JSON to a file
 
 
